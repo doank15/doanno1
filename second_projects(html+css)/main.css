@@ -1,0 +1,85 @@
+    header {
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    #span-text {
+        font-size: 22px;
+        text-align: center;
+    }
+    
+    body {
+        background-color: cyan;
+        text-align: center;
+    }
+    
+    .rows {
+        position: static;
+        display: block;
+    }
+    
+    .form-group {
+        margin: auto;
+        width: 800px;
+        background-color: white;
+        border-radius: 10px;
+        padding: 20px 10px 10px 10px;
+    }
+    
+    .fields {
+        display: inline-block;
+        text-align: left;
+        width: 48%;
+        vertical-align: middle;
+    }
+    
+    .label {
+        display: inline-block;
+        text-align: right;
+        vertical-align: top;
+        width: 40%;
+        padding: 5px;
+        margin-top: 10px;
+    }
+    
+    .input-field {
+        height: 20;
+        width: 280px;
+        padding: 5px;
+        margin: 15px 10px 10px 10px;
+        border: 1px solid;
+        border-radius: 4px;
+    }
+    
+    .dropdown {
+        height: 35px;
+        width: 140px;
+        padding: 5px;
+        margin: 15px 10px 10px 10px;
+        border: 1px solid;
+        border-radius: 4px;
+    }
+    
+    .radio {
+        position: relative;
+        left: -43px;
+        margin-left: 10px;
+        display: block;
+        padding-bottom: 10px;
+    }
+    
+    .user-selection {
+        float: left;
+        margin-right: 5px;
+    }
+    
+    .button {
+        border: 0px solid;
+        background-color: green;
+        font-size: 1em;
+        border-radius: 4px;
+        height: 40px;
+        width: 80px;
+        margin: 10px;
+        color: white;
+    }
